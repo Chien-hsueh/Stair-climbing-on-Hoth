@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Stair-climbing-on-Hoth/static/css/main.6c26e3a3.chunk.css",
+    "main.js": "/Stair-climbing-on-Hoth/static/js/main.c0d4aaed.chunk.js",
+    "main.js.map": "/Stair-climbing-on-Hoth/static/js/main.c0d4aaed.chunk.js.map",
+    "runtime-main.js": "/Stair-climbing-on-Hoth/static/js/runtime-main.794d559b.js",
+    "runtime-main.js.map": "/Stair-climbing-on-Hoth/static/js/runtime-main.794d559b.js.map",
+    "static/js/2.0c320665.chunk.js": "/Stair-climbing-on-Hoth/static/js/2.0c320665.chunk.js",
+    "static/js/2.0c320665.chunk.js.map": "/Stair-climbing-on-Hoth/static/js/2.0c320665.chunk.js.map",
+    "static/js/3.3163e060.chunk.js": "/Stair-climbing-on-Hoth/static/js/3.3163e060.chunk.js",
+    "static/js/3.3163e060.chunk.js.map": "/Stair-climbing-on-Hoth/static/js/3.3163e060.chunk.js.map",
+    "index.html": "/Stair-climbing-on-Hoth/index.html",
+    "static/css/main.6c26e3a3.chunk.css.map": "/Stair-climbing-on-Hoth/static/css/main.6c26e3a3.chunk.css.map",
+    "static/js/2.0c320665.chunk.js.LICENSE.txt": "/Stair-climbing-on-Hoth/static/js/2.0c320665.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794d559b.js",
+    "static/js/2.0c320665.chunk.js",
+    "static/css/main.6c26e3a3.chunk.css",
+    "static/js/main.c0d4aaed.chunk.js"
+  ]
+}
