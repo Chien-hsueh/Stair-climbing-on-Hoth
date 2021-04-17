@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #d8c7ff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.intro {
+  color: #010001;
+  width: 60%;
+}
+
+.answer{
+  color: #3f51b5;
+}
+
+.footr{
+  color: #010001;
+  width: 70%;
+}
